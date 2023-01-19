@@ -36,7 +36,7 @@
 <a href="https://kaggle.com/mahamudullah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mahamudullah" height="30" width="40" /></a>
 <a href="https://fb.com/mahamudullah.md" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mahamudullah.md" height="30" width="40" /></a>
 <a href="https://instagram.com/mahamudullah7k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mahamudullah7k" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/mahamudullahYT" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mahamudullahyt" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCwQdgdFk5FOAKAMClPpI_3Q" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mahamudullahyt" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
