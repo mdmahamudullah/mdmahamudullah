@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mahamudullah</h1>
 <h3 align="center">BSc in Computer Science and Engineering. A passionate web developer.</h3>
-
+![Profile views](https://gpvc.arturio.dev/mdmahamudullah) 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahamudullah6&label=Profile%20views&color=0e75b6&style=flat" alt="mahamudullah6" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahamudullah6" alt="mahamudullah6" /></a> </p>
