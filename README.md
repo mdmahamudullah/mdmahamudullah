@@ -3,9 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdmahamudullah&label=Profile%20views&color=0e75b6&style=flat" alt="mdmahamudullah" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahamudullah6" alt="mahamudullah6" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/mahamudullah" target="blank"><img src="https://img.shields.io/twitter/follow/mahamudullah?logo=twitter&style=for-the-badge" alt="mahamudullah" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdmahamudullah" alt="mdmahamudullah" /></a> </p>
+<p align="left"> <a href="https://fb.com/mahamudullah.md" target="blank"><img src="https://img.shields.io/badge/Facebook-follow-blue?logo=facebook&style=plastic" alt="mahamudullah" /></a> </p>
 
 - 🔭 I’m currently working on **making a website using Bootstrap.**
 
