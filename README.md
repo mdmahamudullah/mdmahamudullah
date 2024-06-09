@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md Mahamudullah</h1>
-<h3 align="center">BSc in Computer Science and Engineering.<br>|Web|Research|Teaching|</h3>
+<h3 align="center">BSc in Computer Science and Engineering.<br>|Web|Research|</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdmahamudullah&label=Profile%20views&color=0e75b6&style=flat" alt="mdmahamudullah" /> </p>
 
