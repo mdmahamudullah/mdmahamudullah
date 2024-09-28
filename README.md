@@ -8,8 +8,6 @@
 
 - 🔭 I’m currently working on **a research about Vegetable detection**
 
-- 🌱 I’m currently learning **Web development & Image processing **
-
 - 👯 I’m looking to collaborate on **image processing project.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mdmahamudullah](https://github.com/mdmahamudullah)
