@@ -6,19 +6,17 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdmahamudullah" alt="mdmahamudullah" /></a> </p>
 <p align="left"> <a href="https://fb.com/mahamudullah.md" target="blank"><img src="https://img.shields.io/badge/Facebook-follow-blue?logo=facebook&style=plastic" alt="mahamudullah" /></a> </p>
 
-- 🔭 I’m currently working on **making a website using Bootstrap.**
+- 🔭 I’m currently working on **a research about Vegetable detection**
 
-- 🌱 I’m currently learning **Computer science and Engineering, Web development, Image processing etc.**
+- 🌱 I’m currently learning **Web development & Image processing **
 
 - 👯 I’m looking to collaborate on **image processing project.**
-
-- 🤝 I’m looking for help with **image processing project.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mdmahamudullah](https://github.com/mdmahamudullah)
 
 - 📝 I regularly write articles on [https://www.facebook.com/mahamudullah.md](https://www.facebook.com/mahamudullah.md)
 
-- 💬 Ask me about **C, Java, python, Html, CSS, React ,JavaScript, etc.**
+- 💬 Ask me about **C, Java, python, Html, CSS, React , JavaScript, PHP.**
 
 - 📫 How to reach me **mahamudullah7k@gmail.com**
 
